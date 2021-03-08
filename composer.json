@@ -1,0 +1,24 @@
+{
+    "name": "raingrave/phpix",
+    "description": "Simples implementação QRCODE estático do PIX",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raingrave",
+            "email": "raintech@outlook.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Raingrave\\": "src/"
+      }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "mpdf/qrcode": "dev-development"
+    },
+    "require-dev": {
+        "pestphp/pest": "1.x-dev"
+    }
+}

@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":268:{a:2:{s:7:"defects";a:1:{s:40:"/var/www/tests/ExampleTest.php::generate";i:4;}s:5:"times";a:3:{s:39:"/var/www/tests/ExampleTest.php::example";d:0.002;s:40:"/var/www/tests/ExampleTest.php::generate";d:0.008;s:45:"/var/www/tests/QrCodeStaticTest.php::generate";d:0.008;}}}
